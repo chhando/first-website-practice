@@ -27,10 +27,11 @@ body {
     font-weight: 700;
 }
 
-.sectiion-description {
+.section-description {
     color:  #757575;
     text-align: center;
     font-size: 18px;
+    padding: 50px;
 
 }
 
@@ -116,4 +117,5 @@ nav a {
 }
 .main{
     max-width: 1140px;
+    margin:0 auto;
 }
